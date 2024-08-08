@@ -1,0 +1,97 @@
+/* For Carousell Comp */
+.Carousell {
+  width: 100%;
+  height: 510px;
+}
+
+.carousel-button{
+  position:absolute
+}
+
+/* For CardCarousell Comp */
+.heading-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.seeall-buttons {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.Seeall {
+  text-decoration: none; 
+  font-weight: 600;
+}
+
+.side-arrow {
+  font-size: 20px !important;
+}
+
+.side-arrow-box {
+  padding: 5px;
+  cursor: pointer;
+
+}
+
+/* Cards In CardCarousell*/
+  
+.carouselcardsbody> p{
+    margin-bottom: 0px;
+}
+
+.cardtitle{
+    color: #3B3B3B; 
+    font-size:14px;
+    font-weight: 700;
+}
+
+.cardvarient{
+    color: #666666;
+    font-size:13px !important;
+    width: 100%; 
+    margin-top: 8px;
+    height: 19px;
+    margin-bottom: 10px !important; 
+}
+
+.cardprice{
+    color: #48962b;
+    font-size:14px; 
+    font-weight: 700;
+}
+
+.cardoprice{
+    color: #6B7280;
+    font-size:12px;
+    text-decoration: line-through;
+    margin-bottom: 0px;
+
+}
+
+.cardpercent{
+    color: #374151;
+    font-size:12px;
+    margin-left: 8px;
+    font-weight: 600;
+}
+
+.oprice-per{
+    margin-top: 12px;
+    display: flex;
+}  
+
+.samsung-poster{
+    display: flex;
+    align-items: flex-end;
+}
+
+/* company carousel */
+.logos-div{ 
+  display: flex; 
+  margin: 20px 0px;
+  padding: 20px 0px;
+}
