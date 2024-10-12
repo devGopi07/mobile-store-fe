@@ -17,7 +17,7 @@ import Addmobile from "./Components/Mobiles/Addmobile";
 import Updatepage, { EditMobile } from "./Components/Mobiles/Updatepage"; 
 import Mobilepage from "./Components/Mobiles/MobileDetails";
 
-export const url="https://mobile-store-be.onrender.com" 
+export const url="https://mobile-store-be-r19k.onrender.com" 
 
 
 function App() {
